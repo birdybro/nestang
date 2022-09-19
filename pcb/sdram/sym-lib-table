@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "AS4C32M16SB-7TCN")(type "KiCad")(uri "C:/Users/aberu/OneDrive/Documents/GitHub/nestang/pcb/lib/AS4C32M16SB-7TCN.kicad_sym")(options "")(descr "DRAM 512M 3.3V 143MHz 32M x 16 SDRAM "))
+)
